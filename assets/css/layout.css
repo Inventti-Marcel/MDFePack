@@ -1,0 +1,43 @@
+/* Layout */
+/* line 3, ../sass/layout.scss */
+.logo-inventti {
+  margin-top: -5px;
+}
+
+/* line 4, ../sass/layout.scss */
+.wrapper-content {
+  padding-top: 51px;
+}
+
+/* Helpers */
+/* line 7, ../sass/layout.scss */
+.no-margin {
+  margin: 0 !important;
+}
+
+/* line 9, ../sass/layout.scss */
+.txt-left {
+  text-align: left;
+}
+
+/* line 10, ../sass/layout.scss */
+.txt-center {
+  text-align: center;
+}
+
+/* line 11, ../sass/layout.scss */
+.txt-right {
+  text-align: right;
+}
+
+/* line 13, ../sass/layout.scss */
+.w50 {
+  width: 50px;
+}
+
+/* line 14, ../sass/layout.scss */
+.w100 {
+  width: 100px;
+}
+
+/* Grid */
